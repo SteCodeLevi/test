@@ -2,4 +2,4 @@
 
 ciao mondo
 
-author: **stefano masiero** edited locally
+author: **stefano masiero** edited locally via VSC
